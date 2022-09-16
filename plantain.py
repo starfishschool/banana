@@ -1,3 +1,3 @@
 import numpy as np
 
-print("BANANANANANANANANANANA")
+print("BANANANANANANANANANANANA")
